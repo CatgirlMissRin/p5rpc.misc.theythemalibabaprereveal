@@ -1,0 +1,33 @@
+{
+  "ModId": "p5rpc.misc.theythemalibabaprereveal",
+  "ModName": "They/Them Alibaba Pre Character Reveal",
+  "ModAuthor": "MissRin",
+  "ModVersion": "1.0.0",
+  "ModDescription": "It\u0027s as simple as the title says.",
+  "ModDll": "",
+  "ModIcon": "final thumbnail.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5rpc.misc.theythemalibabaprereveal.ReleaseMetadata.json",
+  "PluginData": {
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 426919
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "p5rpc.modloader"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p5r.exe"
+  ],
+  "ProjectUrl": "https://gamebanana.com/mods/426919"
+}

@@ -1,0 +1,30 @@
+{
+  "ModId": "p5rpc.misc.theythemalibabaprereveal.sheherjokercompat",
+  "ModName": "They/Them Alibaba - She/Her Joker Compatability Patch",
+  "ModAuthor": "Miss Rin",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Just a simple patch to use my mods together",
+  "ModDll": "",
+  "ModIcon": "final thumbnail - Copy.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5rpc.misc.theythemalibabaprereveal.sheherjokercompat.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "p5rpc.misc.femmcPronouns",
+    "p5rpc.modloader",
+    "p5rpc.misc.theythemalibabaprereveal"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p5r.exe"
+  ],
+  "ProjectUrl": ""
+}
