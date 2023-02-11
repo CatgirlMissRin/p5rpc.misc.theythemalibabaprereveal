@@ -19,6 +19,12 @@
     "GameBanana": {
       "ItemType": "Mod",
       "ItemId": 426919
+    },
+    "GitHubRelease": {
+      "UserName": "CatgirlMissRin",
+      "RepositoryName": "p5rpc.misc.theythemalibabaprereveal",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
     }
   },
   "IsUniversalMod": false,

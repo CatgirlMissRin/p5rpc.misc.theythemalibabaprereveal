@@ -15,7 +15,18 @@
   "HasExports": null,
   "IsLibrary": false,
   "ReleaseMetadataFileName": "p5rpc.misc.theythemalibabaprereveal.sheherjokercompat.ReleaseMetadata.json",
-  "PluginData": {},
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "CatgirlMissRin",
+      "RepositoryName": "p5rpc.misc.theythemalibabaprereveal",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 426919
+    }
+  },
   "IsUniversalMod": false,
   "ModDependencies": [
     "p5rpc.misc.femmcPronouns",
@@ -26,5 +37,5 @@
   "SupportedAppId": [
     "p5r.exe"
   ],
-  "ProjectUrl": ""
+  "ProjectUrl": "https://gamebanana.com/mods/426919"
 }
